@@ -1,0 +1,10 @@
+train: "C:/Users/dhruv/Desktop/Cricket_Learning/YOLOv8/YOLOv8/yolov8-obb/train/images"
+val: "C:/Users/dhruv/Desktop/Cricket_Learning/YOLOv8/YOLOv8/yolov8-obb/train/images"
+test: "C:/Users/dhruv/Desktop/Cricket_Learning/YOLOv8/YOLOv8/yolov8-obb/train/images"
+
+names: 
+  0: Ball
+  1: Bat
+  2: Dis_Wicket
+  3: Pitch_Line
+  4: Undis_Wicket
